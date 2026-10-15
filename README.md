@@ -27,6 +27,7 @@ B.Tech CSE (AI & ML) student at DKTE | CGPA: 8.40/10
       • Spring Boot<br>
       • RESTful APIs<br>
       • JPQL<br>
+      • Spring AI<br>
       • Java OOP<br>
       • Node.js<br>
       • HTML &amp; CSS

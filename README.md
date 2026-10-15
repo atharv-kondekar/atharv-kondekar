@@ -9,20 +9,46 @@ B.Tech CSE (AI & ML) student at DKTE | CGPA: 8.40/10
 - ☕ Building backend applications using Java and Spring Boot
 - 🎯 Focused on DSA, problem-solving, and real-world projects
 
-## 🛠️ Technical Skills
+<h2>🛠️ Technical Skills</h2>
 
 <table>
   <tr>
-    <th align="left">Languages</th>
-    <th align="left">Development</th>
-    <th align="left">Databases & AI</th>
-    <th align="left">Tools</th>
-  </tr>
-  <tr>
-    <td valign="top">C, C++, Java<br>Python, C#, JavaScript</td>
-    <td valign="top">Spring Boot<br>REST APIs, JDBC<br>Node.js, HTML/CSS</td>
-    <td valign="top">MySQL, MongoDB<br>LLMs, RAG<br>LangChain, ChromaDB</td>
-    <td valign="top">Git, GitHub<br>Postman, Swagger<br>Selenium, Streamlit</td>
+    <td width="25%" valign="top">
+      <strong>Programming Languages</strong><br>
+      • C<br>
+      • C++<br>
+      • Java<br>
+      • C#<br>
+      • Python<br>
+      • JavaScript
+    </td>
+    <td width="25%" valign="top">
+      <strong>Development</strong><br>
+      • Spring Boot<br>
+      • RESTful APIs<br>
+      • JPQL<br>
+      • Java OOP<br>
+      • Node.js<br>
+      • HTML &amp; CSS
+    </td>
+    <td width="25%" valign="top">
+      <strong>Databases &amp; GenAI</strong><br>
+      • MySQL<br>
+      • MongoDB<br>
+      • Vector Databases<br>
+      • LLMs<br>
+      • RAG<br>
+      • LangChain
+    </td>
+    <td width="25%" valign="top">
+      <strong>Tools &amp; Platforms</strong><br>
+      • Git<br>
+      • GitHub<br>
+      • Swagger<br>
+      • Postman<br>
+      • Selenium<br>
+      • Streamlit
+    </td>
   </tr>
 </table>
 

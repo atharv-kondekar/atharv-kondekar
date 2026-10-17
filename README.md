@@ -1,108 +1,72 @@
-# Atharv Kondekar
+# Hi, I'm Atharv Kondekar 👋
 
 **Software Engineer | Java & Spring Boot | Generative AI & RAG**
 
-B.Tech in Computer Science and Engineering (Artificial Intelligence & Machine Learning) at DKTE Society's Textile and Engineering Institute | CGPA: 8.40/10
+B.Tech CSE (AI & ML) student at DKTE | CGPA: 8.40/10
 
-I am a software engineering enthusiast focused on building backend applications and practical Generative AI solutions. My experience includes developing REST APIs with Java and Spring Boot, building Retrieval-Augmented Generation (RAG) applications, and working with relational databases, vector databases, and LLM-powered systems.
+- 💼 Generative AI Intern at Sunbeam Infotech — **A Grade**
+- 🤖 Interested in LLMs, RAG, and applied AI engineering
+- ☕ Building backend applications using Java and Spring Boot
+- 🎯 Focused on DSA, problem-solving, and real-world projects
 
-- Completed a Generative AI internship at Sunbeam Infotech with an A grade.
-- Interested in applied AI engineering, LLMs, RAG architectures, and backend development.
-- Building practical applications using Java, Spring Boot, Python, and modern AI tools.
-- Continuously strengthening problem-solving skills, data structures, algorithms, and software design fundamentals.
-
-## Technical Skills
+<h2>🛠️ Technical Skills</h2>
 
 <table>
   <tr>
     <td width="25%" valign="top">
-      <strong>Programming Languages</strong>
-      <ul>
-        <li>Java</li>
-        <li>Python</li>
-        <li>C</li>
-        <li>C++</li>
-        <li>C#</li>
-        <li>JavaScript</li>
-      </ul>
+      <strong>Programming Languages</strong><br>
+      • C<br>
+      • C++<br>
+      • Java<br>
+      • C#<br>
+      • Python<br>
+      • JavaScript
     </td>
     <td width="25%" valign="top">
-      <strong>Backend & Web Development</strong>
-      <ul>
-        <li>Spring Boot</li>
-        <li>RESTful APIs</li>
-        <li>Spring AI</li>
-        <li>JPQL</li>
-        <li>Java OOP</li>
-        <li>Node.js</li>
-        <li>Express.js</li>
-        <li>HTML & CSS</li>
-      </ul>
+      <strong>Development</strong><br>
+      • Spring Boot<br>
+      • RESTful APIs<br>
+      • JPQL<br>
+      • Spring AI<br>
+      • Java OOP<br>
+      • Node.js<br>
+      • HTML &amp; CSS
     </td>
     <td width="25%" valign="top">
-      <strong>Databases & Generative AI</strong>
-      <ul>
-        <li>MySQL</li>
-        <li>MongoDB</li>
-        <li>Vector Databases</li>
-        <li>Large Language Models</li>
-        <li>Retrieval-Augmented Generation</li>
-        <li>LangChain</li>
-      </ul>
+      <strong>Databases &amp; GenAI</strong><br>
+      • MySQL<br>
+      • MongoDB<br>
+      • Vector Databases<br>
+      • LLMs<br>
+      • RAG<br>
+      • LangChain
     </td>
     <td width="25%" valign="top">
-      <strong>Tools & Platforms</strong>
-      <ul>
-        <li>Git & GitHub</li>
-        <li>Swagger / OpenAPI</li>
-        <li>Postman</li>
-        <li>Selenium</li>
-        <li>Streamlit</li>
-        <li>ChromaDB</li>
-      </ul>
+      <strong>Tools &amp; Platforms</strong><br>
+      • Git<br>
+      • GitHub<br>
+      • Swagger<br>
+      • Postman<br>
+      • Selenium<br>
+      • Streamlit
     </td>
   </tr>
 </table>
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### [Sunbeam AI Chatbot](https://github.com/atharv-kondekar/Project-Sunbeam-Chatbot)
+- **[Sunbeam AI Chatbot](https://github.com/atharv-kondekar/Project-Sunbeam-Chatbot)** — RAG chatbot using Python, LangChain, ChromaDB, and a locally hosted LLM.
+- **[Melodex](https://github.com/atharv-kondekar/melodex)** — Music management REST API with authentication, CRUD, and file uploads using Java, Spring Boot, and MySQL.
+- **ChatFlow** — Full-stack chat application built with Node.js, Express.js, MongoDB, and EJS.
 
-A Retrieval-Augmented Generation application designed to retrieve relevant information from a knowledge base and generate context-aware responses.
-
-**Technologies:** Python, LangChain, ChromaDB, Hugging Face Embeddings, locally hosted LLMs, Streamlit.
-
-### [Melodex](https://github.com/atharv-kondekar/melodex)
-
-A music library management application built with Spring Boot, featuring REST APIs, JWT-based authentication, user and album management, file uploads, DTO mapping, and centralized exception handling.
-
-**Technologies:** Java, Spring Boot, Spring Security, JWT, MySQL, JDBC, ModelMapper, HTML, CSS, JavaScript.
-
-### ChatFlow
-
-A full-stack chat application built to explore server-side web development, application routing, templating, and database integration.
-
-**Technologies:** Node.js, Express.js, MongoDB, EJS.
-
-## Certifications
+## 🏆 Certifications
 
 - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
-- Generative AI Training and Internship — Sunbeam Infotech, A Grade
+- Generative AI Training & Internship — Sunbeam
 - Deloitte Data Analytics Job Simulation
 
-## Current Focus
+## 📫 Connect
 
-- Developing maintainable backend applications with Java and Spring Boot.
-- Strengthening DSA, SQL, and problem-solving skills.
-- Exploring RAG pipelines, LLM integrations, and applied AI engineering.
-- Improving API design, authentication, testing, and software architecture.
+[GitHub](https://github.com/atharv-kondekar) · [Email](mailto:atharvkondekar96@gmail.com) · Ichalkaranji, Kolhapur, Maharashtra
 
-## Connect
-
-- **GitHub:** [atharv-kondekar](https://github.com/atharv-kondekar)
-- **Email:** [atharvkondekar96@gmail.com](mailto:atharvkondekar96@gmail.com)
-- **Location:** Maharashtra, India
-
----
-
-*Building practical software and exploring applied AI.*
+*Building practical software. Exploring applied AI.*

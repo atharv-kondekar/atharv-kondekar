@@ -56,7 +56,7 @@ B.Tech CSE (AI & ML) student at DKTE | CGPA: 8.40/10
 ## 🚀 Featured Projects
 
 - **[Sunbeam AI Chatbot](https://github.com/atharv-kondekar/Project-Sunbeam-Chatbot)** — RAG chatbot using Python, LangChain, ChromaDB, and a locally hosted LLM.
-- **Melodex** — Music management REST API with authentication, CRUD, and file uploads using Java, Spring Boot, and MySQL.
+- **[Melodex](https://github.com/atharv-kondekar/melodex)** — Music management REST API with authentication, CRUD, and file uploads using Java, Spring Boot, and MySQL.
 - **ChatFlow** — Full-stack chat application built with Node.js, Express.js, MongoDB, and EJS.
 
 ## 🏆 Certifications
